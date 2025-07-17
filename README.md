@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sourasheesh
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning WEB DEVELOPMENT 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Some Cool Projects
 - 📫 How to reach me TWITTER - sourasheesh
 
 <!---
